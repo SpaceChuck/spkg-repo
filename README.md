@@ -1,2 +1,2 @@
 # spkg-repo
-A repo for SPKG. This is where SPKG downloads files.
+Repos for SPKG, the [SnakeOS](https://github.com/SpaceChuck/SnakeOS) Package Manager.
