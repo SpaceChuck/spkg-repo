@@ -23,6 +23,5 @@ if i.lower() == "y":
     with zipfile.ZipFile("snakeos.zip", 'r') as zip_ref:
         zip_ref.extractall(os.getcwd())
     os.remove("snakeos.zip")
-    print("Now type python main.py")
-    print("NOTE: If you had any files in your Home directory, the setup assistant will not work. Login as admin (password 12345) and type useradd.")
+    print("Now type 'python main.py'")
     exit()
